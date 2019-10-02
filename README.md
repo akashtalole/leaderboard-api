@@ -5,6 +5,9 @@ https://github.com/akashtalole/leaderboard-api
 
 Final Commit ID: 224e4a0f20f5bbbb2c696002aeffc8f9673490d7
 
+# Postman collection
+https://www.getpostman.com/collections/c7c45ccfd7f9cf623174
+
 # How to run
 ```
 python manage.py runserver 0.0.0.0:8000
