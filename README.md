@@ -1,5 +1,10 @@
 # leaderboard-api
 
+# Git Repo
+https://github.com/akashtalole/leaderboard-api
+
+Final Commit ID: 
+
 # How to run
 ```
 python manage.py runserver 0.0.0.0:8000
